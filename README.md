@@ -1,2 +1,3 @@
-# Projeto-DentalIN
-Projeto de uma pagina de dentista.
+# Projeto Dental.in
+
+Esse é um Projeto onde eu aprendi a fazer uma Landing Page de dentista.
